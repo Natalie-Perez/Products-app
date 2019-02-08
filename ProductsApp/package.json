@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Natalie-Perez/CRUD-app.git"
+    "url": "git+https://github.com/Natalie-Perez/Products-app.git"
   },
   "author": "Natalie Perez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Natalie-Perez/CRUD-app/issues"
+    "url": "https://github.com/Natalie-Perez/Products-app/issues"
   },
-  "homepage": "https://github.com/Natalie-Perez/CRUD-app#readme",
+  "homepage": "https://github.com/Natalie-Perez/Products-app#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
